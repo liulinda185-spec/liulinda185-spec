@@ -3,9 +3,9 @@
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?logo=gmail&logoColor=white)](mailto:yingge1204@outlook.com)
 [![Location](https://img.shields.io/badge/Location-Hong_Kong-7A92B8?logo=github&logoColor=white)](https://github.com/liulinda185-spec)
 
-# 🦉 **Linda Liu (Yingge Liu)** | 🌍 Energy & Climate Tech
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 🦉 **Linda Liu (Yingge Liu)** | 🌍 Energy & Climate Tech
 
-### 🌱 Welcome to my GitHub!
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26"> 🌱 Welcome to my GitHub!
 
 <p align="justify">
 I'm an <strong>Energy Science & Engineering senior</strong> at the City University of Hong Kong,
