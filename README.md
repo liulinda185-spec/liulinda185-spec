@@ -5,7 +5,7 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 🦉 **Linda Liu (Yingge Liu)** | 🌍 Energy & Climate Tech
 
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26"> 🌱 Welcome to my GitHub!
+### 🌱 Welcome to my GitHub!
 
 <p align="justify">
 I'm an <strong>Energy Science & Engineering senior</strong> at the City University of Hong Kong,
