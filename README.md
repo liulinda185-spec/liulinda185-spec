@@ -133,6 +133,9 @@ You can read my full background on my <a href="https://liulinda185-spec.github.i
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7417192">
     <img src="https://img.shields.io/badge/SSRN-Paper-6A1B9A">
   </a>
+  <a href="https://orcid.org/0009-0002-8537-8995">
+    <img src="https://img.shields.io/badge/ORCID-0009--0002--8537--8995-A6CE39?logo=orcid&logoColor=white">
+  </a>
   <a href="https://github.com/liulinda185-spec">
     <img src="https://img.shields.io/badge/GitHub-liulinda185-spec-181717?logo=github&logoColor=white">
   </a>
