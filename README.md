@@ -3,9 +3,9 @@
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?logo=gmail&logoColor=white)](mailto:yingge1204@outlook.com)
 [![Location](https://img.shields.io/badge/Location-Hong_Kong-7A92B8?logo=github&logoColor=white)](https://github.com/liulinda185-spec)
 
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> **Linda Liu (Yingge Liu)** | Energy & Climate Tech
+# 🦉 **Linda Liu (Yingge Liu)** | 🌍 Energy & Climate Tech
 
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26"> Welcome to my GitHub!
+### 🌱 Welcome to my GitHub!
 
 <p align="justify">
 I'm an <strong>Energy Science & Engineering senior</strong> at the City University of Hong Kong,
@@ -17,6 +17,13 @@ I lead <strong><a href="https://github.com/liulinda185-spec/carbon-falcon-ocip">
 an open-source carbon flux audit platform, and I am the <strong>Chair of the CityUHK Sustainability Club</strong>.
 Previously I interned at <strong>CLP Power Hong Kong</strong> and the Beijing Circular Economy Association.
 You can read my full background on my <a href="https://liulinda185-spec.github.io/Profile/">portfolio website</a>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌱-Sustainability-2e7d32">
+  <img src="https://img.shields.io/badge/♻️-Circular_Economy-2e7d32">
+  <img src="https://img.shields.io/badge/🌍-Climate_Action-2e7d32">
+  <img src="https://img.shields.io/badge/🔋-Decarbonization-2e7d32">
 </p>
 
 ## 📄 Selected Research
@@ -138,8 +145,8 @@ You can read my full background on my <a href="https://liulinda185-spec.github.i
 ## 📊 Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=liulinda185-spec&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="390">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liulinda185-spec&layout=compact&theme=dracula&hide_border=true" width="330">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=liulinda185-spec&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2e7d32&icon_color=2e7d32&text_color=2d333a&bg_color=fffefe" width="390">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liulinda185-spec&layout=compact&hide_border=true&title_color=2e7d32&text_color=2d333a&bg_color=fffefe" width="330">
 </p>
 
 ---
